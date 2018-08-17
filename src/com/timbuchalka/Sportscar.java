@@ -1,4 +1,4 @@
 package com.timbuchalka;
 
-public class Sportscar {
+public class Sportscar extends  {
 }
